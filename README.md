@@ -1,0 +1,2 @@
+# freindlua
+no
